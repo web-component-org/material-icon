@@ -12,6 +12,12 @@ _Find icon names [here](https://material.io/tools/icons)._
 
 # Usage
 
+Add the Material Icons font and `material-icon` to your index.html.
+
+```html
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+```
+
 ```html
 <script src='https://unpkg.com/@web-component/material-icon@0.0.1/dist/material-icon.js'></script>
 ```
